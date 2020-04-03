@@ -1,0 +1,23 @@
+li{
+    margin-bottom: 10px;
+}
+
+.green{
+    color: #43A047;
+}
+.grey{
+    color: aliceblue;
+    background: blueviolet;
+}
+.red{
+    color: red;
+}
+.blueBack{
+    background: blue;
+}
+
+.selected{
+    border: 3px solid #D81B60;
+    padding: 5px;
+    margin: 2px 0px;
+}
