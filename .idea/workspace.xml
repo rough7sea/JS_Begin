@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbcd6f2d-f7c7-4224-b8b4-bde135ead87a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube/anotherone/01.html" beforeDir="false" afterPath="$PROJECT_DIR$/youtube/anotherone/01.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +84,21 @@
       <workItem from="1584209332492" duration="3600000" />
       <workItem from="1585849899540" duration="4732000" />
     </task>
+    <task id="LOCAL-00001" summary="Add more tutorials examples">
+      <created>1585920277754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585920277754</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add more tutorials examples">
+      <created>1585920301199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585920301199</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,15 +125,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add more tutorials examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add more tutorials examples" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="987" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583911648315">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="987" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583911648315" />
-    <state x="393" y="7" key="CommitChangelistDialog2" timestamp="1585920275309">
+    <state x="393" y="7" key="CommitChangelistDialog2" timestamp="1585920699525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585920275309" />
+    <state x="393" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585920699525" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1585909837041">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -194,10 +210,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="646" y="134" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585909856364" />
-    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585920290152">
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585920711267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1585920290152" />
+    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1585920711267" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1584216153041">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
