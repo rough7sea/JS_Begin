@@ -94,3 +94,15 @@ let pow = function(x, n) {
 
 let number = pow(2, 16);
 // alert(pow);
+
+let ask = (question, yes, no) => {
+    confirm(question) ? yes.apply(): no.apply();
+    debugger;
+    alert("All okey");
+};
+
+ask(
+    "Are you agree?",
+    () => alert("OK") ,
+    () => alert("ne Ok")
+);
