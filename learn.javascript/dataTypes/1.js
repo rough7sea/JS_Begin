@@ -34,6 +34,3 @@ console.log(parseInt("100px"));
 console.log(parseInt("100.1px"));
 console.log(parseFloat("100.1px"));
 console.log(parseInt("p100x"));
-
-
-
