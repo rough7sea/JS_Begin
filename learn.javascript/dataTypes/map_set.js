@@ -161,3 +161,102 @@ function showObject({items = null, extra = false}={}) {
 showObject(options);
 
 showObject();
+
+let date = new Date();
+console.log(date.toLocaleString());
+
+let jan = new Date(0);
+console.log(jan)
+console.log(new Date(24 * 3600 * 1000))
+console.log(new Date(-24 * 3600 * 1000))
+console.log(new Date("2020-04-24"))
+console.log(new Date("24-02-2020"))
+console.log(new Date(2020, 24, 4))
+date = new Date(2020, 24, 4);
+console.log(date.toLocaleString())
+console.log(date.getDate())
+console.log('day = ' + date.getDay()) // 0 - sunday, 1 - monday ...
+console.log(date.getFullYear())
+
+console.log('my hours = ' + date.getHours())
+console.log('utc hours = ' + date.getUTCHours())
+
+console.log('+ =' + +date);
+console.log('getTime() =' + date.getTime()) // the same
+
+date.setDate(date.getDate() + 2) // + 2 days
+console.log(date.toLocaleString())
+
+
+// let time = new Date();
+// for (let i = 0; i < 100000; i++) {
+//     for (let j = i; j < 100000 ; j++) {
+//         let something = i * i * i;
+//     }
+// }
+// console.log('work time = ' + (Date.now() - time))
+
+
+function timeDiff1(d1, d2) {
+    return d2 - d1;
+}
+function timeDiff2(d1, d2) {
+    return d2.getTime() - d1.getTime();
+}
+function bench(f) {
+    let d1 = new Date(0);
+    let d2 = new Date();
+    let start = Date.now();
+    for (let i = 0; i < 1000000; i++)
+        f(d1, d2)
+
+    return Date.now() - start;
+}
+
+let time1 = 0;
+let time2 = 0;
+
+for (let i = 0; i < 10; i++) {
+    // time1 += bench(timeDiff1);
+    // time2 += bench(timeDiff2);
+}
+
+console.log('first diff = ' + time1);
+console.log('getTime diff = ' + time2);
+
+
+//  20 февраля 2012 года, 3 часа 12 минут. Временная зона – местная.
+console.log(new Date(Date.parse('2012-02-20T03:12')).toLocaleString())
+console.log(new Date(2012, 2,20, 3, 12).toLocaleString())
+
+function weekDay(num) {
+    switch (num) {
+        case 0: return 'sunday';
+        case 1: return 'monday';
+        case 2: return 'tuesday';
+        case 3: return 'wednesday';
+        case 4: return 'thursday';
+        case 5: return 'friday';
+        case 6: return 'saturday';
+        default : return undefined;
+    }
+
+}
+function getLocateDay(num){
+    return weekDay(num - 1);
+}
+console.log(weekDay(new Date(Date.now()).getDay()))
+console.log(getLocateDay(new Date(Date.now()).getDay()))
+
+
+function getSecondsToTomorrow() {
+    let tomorrow = new Date(Date.now());
+    tomorrow.setSeconds(0);
+    tomorrow.setMinutes(0);
+    tomorrow.setHours(0);
+    tomorrow.setDate(tomorrow.getDate() + 1);
+    
+    return (tomorrow.getTime() - Date.now());
+}
+let time = new Date(getSecondsToTomorrow());
+console.log(`${time.getUTCHours()}:${time.getUTCMinutes()}:${time.getUTCSeconds()}`)
