@@ -88,7 +88,7 @@ function makeArmy() {
 
     let i = 0;
     while (i < 10) {
-        let j = i;
+        let j = i; // !!!
         let shooter = function() { // функция shooter
             console.log( j ); // должна выводить порядковый номер
         };
@@ -103,3 +103,82 @@ let army = makeArmy();
 
 army[0](); // у 0-го стрелка будет номер 10
 army[5](); // и у 5-го стрелка тоже будет номер 10
+
+globalThis.console.log("me");
+
+var gVar = 4;
+let lVar = 5;
+globalThis.ggVar = 6;
+
+console.log(globalThis.gVar);
+console.log(globalThis.lVar);
+console.log(globalThis.ggVar);
+
+function f2() {
+    // do something
+}
+
+console.log(f2.name);
+
+
+let say = function sayHi(who) {
+    if (who)
+        console.log(`Hello, ${who}`);
+    else
+        sayHi('Guest')
+}
+
+say();
+// sayHi(); // error
+
+function makeCounter() {
+
+    let count = 0;
+
+    function counter() {
+        return ++count;
+    }
+
+    function set(count) {
+        this.count = count;
+    }
+
+    counter.set = (value) =>  { return count = value;}
+
+    counter.decrease = () => {return --count;}
+
+    return counter;
+}
+
+let counter = makeCounter();
+console.log(counter());
+console.log(counter());
+console.log(counter.set(-1));
+console.log(counter());
+console.log(counter.decrease())
+
+
+function sum2(n1) {
+
+    let sum = n1;
+    function f3(b) {
+        sum += b;
+        return f3;
+    }
+
+    f3.toString = function (){
+        return sum;
+    }
+
+    sum2.toString = function (){
+        return sum;
+    }
+
+    return f3;
+}
+
+console.log(sum2(1)(2)); // 1 + 2
+console.log(sum2(1)(2)(3)); // 1 + 2 + 3
+console.log(sum2(5)(-1)(2));
+console.log( sum2(6)(-1)(-2)(-3) );
+console.log( sum2(0)(1)(2)(3)(4)(5) );
