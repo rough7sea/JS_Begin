@@ -1,0 +1,158 @@
+let user = {
+    name:'Jesus2'
+}
+
+let descriptions = Object.getOwnPropertyDescriptor(user, 'name');
+
+console.log(JSON.stringify(descriptions, null, 2));
+
+user = {};
+
+Object.defineProperty(user,'name', {value : 'Jesus3!'})
+console.log(Object.getOwnPropertyDescriptor(user, 'name'));
+
+user = {
+    name:'Jesus again'
+}
+Object.defineProperty(user,'name', {writable : false})
+
+// user.name = 'Not Jesus' // not changed (use strict -> error)
+console.log(user.name);
+
+
+user = {
+    firstName : 'Not',
+    lastName : 'Jesus',
+    get fullName(){
+        return `${this.firstName} ${this.lastName}`
+    },
+    set fullName(value){
+        [this.firstName, this.lastName] = value.split(' ');
+    }
+}
+
+console.log(user.fullName);
+user.fullName = 'finally John'
+console.log(user.lastName);
+
+Object.defineProperty(user,'bigName',{
+    get() {
+        return this.firstName.toUpperCase();
+    },
+    set(value) {
+        this.firstName = value.toLowerCase();
+    }
+})
+
+console.log(user.bigName);
+
+function User(name, birthday) {
+    this.name = name;
+    this.birthday = birthday;
+
+    Object.defineProperty(this, 'age',{
+        get() {
+            let todayYear = new Date().getFullYear();
+            return todayYear - this.birthday.getFullYear();
+        }
+    })
+
+}
+
+let join = new User('John', new Date(1992, 4, 5));
+
+console.log(join.birthday);
+console.log(join.age);
+
+let animal = {
+    eats : true,
+    name : 'animal',
+    walk(){
+        console.log(this.name + ' walk');
+    }
+}
+let rabbit = {
+    name : 'rabbit',
+    jump(a){
+        console.log('jump ' + a);
+    }
+}
+
+rabbit.__proto__ = animal;
+
+let longEar = {
+    name : 'Long Ear',
+    __proto__ : rabbit,
+    earLong : 10,
+    jump(){
+        console.log('jump');
+    }
+}
+
+longEar.walk = function(){
+    console.log(this.name + ' long walk');
+}
+
+
+console.log(rabbit.eats);
+rabbit.walk();
+longEar.walk();
+
+longEar.jump(3)
+longEar.jump()
+
+user = {
+    name: 'Uname',
+    surname: 'Usurname',
+     set fullName(value){
+        [this.name, this.surname] = value.split(' ');
+     },
+    get fullName(){
+        return `${this.name} ${this.surname}`;
+    }
+};
+let admin = {
+    __proto__:user,
+    isAdmin: true,
+}
+
+console.log(admin.fullName);
+admin.fullName = 'Cub Cooper';
+console.log(admin.surname);
+console.log(user.surname);
+
+console.log(Object.keys(admin));
+console.log('=========');
+
+for(let prop in admin) {
+    let isOwn = admin.hasOwnProperty(prop);
+
+    if (isOwn) {
+        console.log(`Our: ${prop}`);
+    } else {
+        console.log(`Inherited: ${prop}`);
+    }
+}
+
+let hamster = {
+    stomach : [],
+
+    eat(food){
+        this.stomach = [food];
+    }
+};
+
+let speed = {
+    __proto__:hamster
+}
+let lazy = {
+    __proto__:hamster
+}
+
+speed.eat('apple1')
+speed.eat('apple2')
+lazy.eat('orange')
+
+console.log(speed.stomach);
+console.log(lazy.stomach);
+
