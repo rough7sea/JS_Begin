@@ -1,0 +1,67 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.circular-menu{
+    position: relative;
+    width: 300px;
+    height: 300px;
+}
+.circular-menu-item{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    text-decoration: none;
+    color: #bcd2d4;
+    background-color: #361255;
+    transition: 0.3s;
+    outline: none;
+}
+.circular-menu-button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #361255;
+    outline: none;
+}
+.circular-menu-lines,
+.circular-menu-lines::before,
+.circular-menu-lines::after{
+    position: absolute;
+    width: 40px;
+    height: 6px;
+    background-color: #bcd2d4;
+    transition: 0.3s;
+}
+.circular-menu-lines{
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+}
+.circular-menu-lines::before{
+    content: '';
+}
+.circular-menu-lines::after{
+    content: '';
+    transform: rotate(90deg);
+}
+.circular-menu-button-active .circular-menu-lines::before{
+    transform: rotate(45deg);
+}
+.circular-menu-button-active .circular-menu-lines::after{
+    transform: rotate(-45deg);
+}
