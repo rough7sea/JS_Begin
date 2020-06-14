@@ -104,9 +104,9 @@ longEar.jump()
 user = {
     name: 'Uname',
     surname: 'Usurname',
-     set fullName(value){
+    set fullName(value){
         [this.name, this.surname] = value.split(' ');
-     },
+    },
     get fullName(){
         return `${this.name} ${this.surname}`;
     }
@@ -156,3 +156,52 @@ lazy.eat('orange')
 console.log(speed.stomach);
 console.log(lazy.stomach);
 
+animal = {
+    eats: true,
+}
+function Rabbit(name) {
+    this.name = name;
+}
+Rabbit.prototype = animal;
+
+rabbit = new Rabbit('White Rabbit');
+
+console.log(rabbit.eats);
+
+let rabbit2 = new rabbit.constructor('another rabbit');
+
+String.prototype.show = function(){
+    console.log(this);
+}
+
+'Meme'.show();
+
+if (!String.prototype.repeat){
+    String.prototype.repeat = function (n) {
+        return new Array(n+1).join(this);
+    };
+}
+
+console.log('Me'.repeat(3));
+
+Function.prototype.defer = function (ms) {
+    setTimeout(this, ms);
+}
+
+function f() {
+    console.log('in function');
+}
+
+// f.defer(1000);
+
+Function.prototype.defer = function(ms){
+    let f = this;
+    return function (...args) {
+        setTimeout(()=>f.apply(this, args), ms)
+    }
+}
+function f(a, b){
+    console.log(a + b);
+}
+
+f.defer(1000)(1,2);
