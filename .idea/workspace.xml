@@ -11,9 +11,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbcd6f2d-f7c7-4224-b8b4-bde135ead87a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learn.javascript/properties/prop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/async/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/async/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/async/end.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/async/mdl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/async/st.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/async/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/classes/begin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/classes/rest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/generators/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/generators/mdl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/generators/str.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/modules/main/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/modules/main/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/modules/main/modules/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/modules/main/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/modules/main/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.javascript/modules/test/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/EMAIL_CONFIRMATION.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/mark_notification.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/burger_menu/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/burger_menu/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/burger_menu/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/burger_menu/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/circles_interaction/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/circles_interaction/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/circles_interaction/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/clock/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/clock/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/clock/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/gradient/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/gradient/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/gradient/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/hexagonal/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/hexagonal/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/hexagonal/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_audio/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_audio/bmth.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_audio/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_audio/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon/bmth.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon/song2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon/song3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon2/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon2/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon2/song3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JS_Begin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JS_Begin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn.javascript/superfunction/another.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn.javascript/superfunction/another.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maria-web/Церкович_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Maria-web/Церкович_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectForJS/.idea/ProjectForJS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectForJS/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectForJS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectForJS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectForJS/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn.javascript/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/learn.javascript/tests/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn.javascript/properties/prop" beforeDir="false" afterPath="$PROJECT_DIR$/learn.javascript/properties/prop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn.javascript/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn.javascript/tests/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn.javascript/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn.javascript/tests/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn.javascript/tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/learn.javascript/tests/tests.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +90,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -57,11 +123,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/youtube/elements" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
@@ -79,41 +148,52 @@
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\JS_Begin\youtube\anotherone" />
-      <recent name="D:\JS_Begin\youtube\basic" />
-      <recent name="D:\JS_Begin\youtube" />
+      <recent name="D:\JS_Begin\learn.javascript\modules\main\modules" />
+      <recent name="D:\JS_Begin\learn.javascript\tests" />
+      <recent name="D:\JS_Begin\youtube\elements\checkbox" />
+      <recent name="D:\JS_Begin\Maria" />
+      <recent name="D:\JS_Begin\Marai" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JS_Begin\youtube\elements" />
+      <recent name="D:\JS_Begin\testcase" />
+      <recent name="D:\JS_Begin\templates" />
+      <recent name="D:\JS_Begin\learn.javascript\generators" />
+      <recent name="D:\JS_Begin\youtube\elements\visual_microfon" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.prop">
-    <configuration name="another.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/learn.javascript/superfunction/another.js" working-dir="$PROJECT_DIR$/learn.javascript/superfunction">
+  <component name="RunManager" selected="Node.js.main.js">
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/learn.javascript/modules/main/main.js" working-dir="$PROJECT_DIR$/learn.javascript/modules/main">
       <method v="2" />
     </configuration>
-    <configuration name="json.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/learn.javascript/dataTypes/json.js" working-dir="$PROJECT_DIR$/learn.javascript/dataTypes">
+    <configuration name="mdl.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/learn.javascript/generators/mdl.js" working-dir="$PROJECT_DIR$/learn.javascript/generators">
       <method v="2" />
     </configuration>
-    <configuration name="new.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/learn.javascript/superfunction/new.js" working-dir="$PROJECT_DIR$/learn.javascript/superfunction">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/testcase/script.js" working-dir="$PROJECT_DIR$/testcase">
       <method v="2" />
     </configuration>
-    <configuration name="prop" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/learn.javascript/properties/prop" working-dir="$PROJECT_DIR$/learn.javascript/properties">
+    <configuration name="str.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/learn.javascript/generators/str.js" working-dir="$PROJECT_DIR$/learn.javascript/generators">
       <method v="2" />
     </configuration>
-    <configuration name="rest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/learn.javascript/superfunction/rest.js" working-dir="$PROJECT_DIR$/learn.javascript/superfunction">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/test.js" working-dir="$PROJECT_DIR$/test">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.prop" />
-        <item itemvalue="Node.js.another.js" />
-        <item itemvalue="Node.js.new.js" />
-        <item itemvalue="Node.js.rest.js" />
-        <item itemvalue="Node.js.json.js" />
+        <item itemvalue="Node.js.main.js" />
+        <item itemvalue="Node.js.script.js" />
+        <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Node.js.mdl.js" />
+        <item itemvalue="Node.js.str.js" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -144,7 +224,37 @@
       <workItem from="1589894037384" duration="3680000" />
       <workItem from="1589953222968" duration="14517000" />
       <workItem from="1590246556207" duration="597000" />
-      <workItem from="1590679988631" duration="592000" />
+      <workItem from="1590679988631" duration="4345000" />
+      <workItem from="1590934360036" duration="17215000" />
+      <workItem from="1591021000865" duration="5664000" />
+      <workItem from="1591362612432" duration="6110000" />
+      <workItem from="1591554498627" duration="3041000" />
+      <workItem from="1591624403074" duration="3191000" />
+      <workItem from="1591803112152" duration="2074000" />
+      <workItem from="1592128508631" duration="14537000" />
+      <workItem from="1592161676581" duration="3750000" />
+      <workItem from="1592212464137" duration="7459000" />
+      <workItem from="1592305701298" duration="45479000" />
+      <workItem from="1592979638574" duration="10558000" />
+      <workItem from="1593250452214" duration="17160000" />
+      <workItem from="1593503592304" duration="13480000" />
+      <workItem from="1593682463307" duration="240000" />
+      <workItem from="1593685841338" duration="2096000" />
+      <workItem from="1593877562900" duration="3896000" />
+      <workItem from="1594485400900" duration="2016000" />
+      <workItem from="1594837173460" duration="272000" />
+      <workItem from="1594982639826" duration="2006000" />
+      <workItem from="1595177178050" duration="400000" />
+      <workItem from="1596728468593" duration="5952000" />
+      <workItem from="1596803250576" duration="584000" />
+      <workItem from="1596805907321" duration="243000" />
+      <workItem from="1596807437748" duration="7462000" />
+      <workItem from="1599728283081" duration="114000" />
+      <workItem from="1600510892405" duration="1348000" />
+      <workItem from="1601019524910" duration="13381000" />
+      <workItem from="1603190950339" duration="7104000" />
+      <workItem from="1603882778930" duration="3969000" />
+      <workItem from="1603966826409" duration="1558000" />
     </task>
     <task id="LOCAL-00001" summary="Add more tutorials examples">
       <created>1585920277754</created>
@@ -192,7 +302,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -267,110 +377,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="some examples with context and functions" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="157" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586719033227">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1601034022170">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="157" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586719033227" />
-    <state x="540" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589991007446">
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601034022170" />
+    <state width="1515" height="296" key="GridCell.Tab.0.bottom" timestamp="1603968777389">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="540" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1589991007446" />
-    <state x="987" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583911648315">
+    <state width="1515" height="296" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603968777389" />
+    <state width="1515" height="296" key="GridCell.Tab.0.center" timestamp="1603968777389">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="987" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583911648315" />
-    <state x="393" y="0" width="750" height="823" key="CommitChangelistDialog2" timestamp="1587902368611">
+    <state width="1515" height="296" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603968777389" />
+    <state width="1515" height="296" key="GridCell.Tab.0.left" timestamp="1603968777389">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" width="750" height="823" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587902368611" />
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1585909837041">
+    <state width="1515" height="296" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603968777389" />
+    <state width="1515" height="296" key="GridCell.Tab.0.right" timestamp="1603968777389">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1585909837041" />
-    <state width="1515" height="227" key="GridCell.Tab.0.bottom" timestamp="1590165733720">
+    <state width="1515" height="296" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603968777389" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1596809206332">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="227" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590165733720" />
-    <state width="1515" height="227" key="GridCell.Tab.0.center" timestamp="1590165733673">
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596809206332" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1601022321475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="227" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590165733673" />
-    <state width="1515" height="227" key="GridCell.Tab.0.left" timestamp="1590165733673">
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1601022321475" />
+    <state x="26" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603193136507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="227" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590165733673" />
-    <state width="1515" height="227" key="GridCell.Tab.0.right" timestamp="1590165733720">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="227" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590165733673" />
-    <state width="1515" height="196" key="GridCell.Tab.1.bottom" timestamp="1588001095817">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="196" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588001095817" />
-    <state width="1515" height="196" key="GridCell.Tab.1.center" timestamp="1588001095816">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="196" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588001095816" />
-    <state width="1515" height="196" key="GridCell.Tab.1.left" timestamp="1588001095816">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="196" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588001095816" />
-    <state width="1515" height="196" key="GridCell.Tab.1.right" timestamp="1588001095817">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="196" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588001095817" />
-    <state width="1515" height="196" key="GridCell.Tab.2.bottom" timestamp="1588001095817">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="196" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588001095817" />
-    <state width="1515" height="196" key="GridCell.Tab.2.center" timestamp="1588001095817">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="196" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1588001095817" />
-    <state width="1515" height="196" key="GridCell.Tab.2.left" timestamp="1588001095817">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="196" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1588001095817" />
-    <state width="1515" height="196" key="GridCell.Tab.2.right" timestamp="1588001095817">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="196" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1588001095817" />
-    <state width="1515" height="196" key="GridCell.Tab.3.bottom" timestamp="1588001095817">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="196" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588001095817" />
-    <state width="1515" height="196" key="GridCell.Tab.3.center" timestamp="1588001095817">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="196" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1588001095817" />
-    <state width="1515" height="196" key="GridCell.Tab.3.left" timestamp="1588001095817">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="196" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1588001095817" />
-    <state width="1515" height="196" key="GridCell.Tab.3.right" timestamp="1588001095817">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="196" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1588001095817" />
-    <state x="646" y="134" key="RollbackChangesDialog" timestamp="1587805253003">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="646" y="134" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1587805253003" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1587901609365">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587901609365" />
-    <state x="497" y="42" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586537820442">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="497" y="42" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1586537820442" />
-    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585920711267">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1585920711267" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1586883414051">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586883414051" />
+    <state x="26" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603193136507" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

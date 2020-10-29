@@ -204,4 +204,45 @@ function f(a, b){
     console.log(a + b);
 }
 
-f.defer(1000)(1,2);
+// f.defer(1000)(1,2);
+
+animal = {
+    eats: true,
+}
+
+rabbit = Object.create(animal, { jumps:{
+    value : true,
+    }});
+
+console.log(rabbit.eats);
+console.log(rabbit.jumps);
+console.log(Object.getPrototypeOf(rabbit) === animal);
+Object.setPrototypeOf(rabbit, {});
+
+let clone = Object.create(Object.getPrototypeOf(rabbit),
+    Object.getOwnPropertyDescriptors(animal))
+console.log(clone);
+console.log(clone.jumps);
+console.log(clone.eats);
+
+let obj = Object.create(null);
+
+let key = '__proto__';
+obj[key] = 'my'
+console.log(obj[key]);
+
+let dictionary = Object.create(null, {
+    toString : {
+        value(){
+            return Object.keys(this).join();
+        }
+    }
+});
+
+dictionary.apple = 'apple';
+dictionary.__proto__ = 'ne proto';
+
+for (let key in dictionary)
+    console.log(key);
+
+console.log(dictionary);

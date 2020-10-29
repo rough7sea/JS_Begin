@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+<button onclick="load()">Click on me</button>
+
+<script type="module">
+    import * as module from "./modules/util.js";
+    //document.body.innerText = module.told();
+    console.log(import.meta.url);
+
+    module.admin.name = 'Jesus';
+    module.say();
+
+</script>
+
+<script type="module" src="../test/test.js">
+</script>
+<script type="module" src="../test/test.js">
+    //download only one time
+</script>
+<script async type="module">
+    import User from './modules/user.js'
+    let user = new User();
+    console.log(user.name);
+</script>
+
+<script>
+    async function load(){
+        let util = await import('../main/modules/util.js')
+        console.log(util.told());
+        util.say();
+    }
+</script>
+</body>
+</html>
