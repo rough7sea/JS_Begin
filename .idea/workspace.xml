@@ -11,75 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbcd6f2d-f7c7-4224-b8b4-bde135ead87a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/async/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/async/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/async/end.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/async/mdl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/async/st.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/async/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/classes/begin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/classes/rest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/generators/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/generators/mdl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/generators/str.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/modules/main/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/modules/main/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/modules/main/modules/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/modules/main/modules/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/modules/main/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn.javascript/modules/test/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/EMAIL_CONFIRMATION.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/mark_notification.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/burger_menu/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/burger_menu/base-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/burger_menu/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/burger_menu/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/circles_interaction/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/circles_interaction/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/circles_interaction/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/clock/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/clock/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/clock/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/gradient/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/gradient/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/gradient/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/hexagonal/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/hexagonal/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/hexagonal/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_audio/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_audio/bmth.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_audio/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_audio/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon/bmth.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon/script2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon/song2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon/song3.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon2/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon2/script2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon2/song3.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube/elements/visual_microfon2/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JS_Begin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JS_Begin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/gradient_text/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube/elements/gradient_text/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maria-web/Церкович_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Maria-web/Церкович_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForJS/.idea/ProjectForJS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForJS/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForJS/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForJS/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForJS/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn.javascript/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/learn.javascript/tests/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn.javascript/properties/prop" beforeDir="false" afterPath="$PROJECT_DIR$/learn.javascript/properties/prop" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn.javascript/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn.javascript/tests/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn.javascript/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn.javascript/tests/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn.javascript/tests.html" beforeDir="false" afterPath="$PROJECT_DIR$/learn.javascript/tests/tests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn.javascript/other/proxy.js" beforeDir="false" afterPath="$PROJECT_DIR$/learn.javascript/other/proxy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/anotherone/01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/anotherone/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube/anotherone/main.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,8 +29,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -130,7 +69,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/youtube/elements" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/youtube/elements/gradient_text" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
@@ -148,10 +87,17 @@
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JS_Begin\youtube\elements\gradient_text" />
+      <recent name="D:\JS_Begin\youtube\elements" />
+      <recent name="D:\JS_Begin\testcase" />
+      <recent name="D:\JS_Begin\templates" />
+      <recent name="D:\JS_Begin\learn.javascript\generators" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JS_Begin\learn.javascript\modules\main\modules" />
       <recent name="D:\JS_Begin\learn.javascript\tests" />
@@ -159,25 +105,18 @@
       <recent name="D:\JS_Begin\Maria" />
       <recent name="D:\JS_Begin\Marai" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JS_Begin\youtube\elements" />
-      <recent name="D:\JS_Begin\testcase" />
-      <recent name="D:\JS_Begin\templates" />
-      <recent name="D:\JS_Begin\learn.javascript\generators" />
-      <recent name="D:\JS_Begin\youtube\elements\visual_microfon" />
-    </key>
   </component>
-  <component name="RunManager" selected="Node.js.main.js">
+  <component name="RunManager" selected="Node.js.proxy.js">
     <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/learn.javascript/modules/main/main.js" working-dir="$PROJECT_DIR$/learn.javascript/modules/main">
       <method v="2" />
     </configuration>
     <configuration name="mdl.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/learn.javascript/generators/mdl.js" working-dir="$PROJECT_DIR$/learn.javascript/generators">
       <method v="2" />
     </configuration>
-    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/testcase/script.js" working-dir="$PROJECT_DIR$/testcase">
+    <configuration name="proxy.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/learn.javascript/other/proxy.js" working-dir="$PROJECT_DIR$/learn.javascript/other">
       <method v="2" />
     </configuration>
-    <configuration name="str.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/learn.javascript/generators/str.js" working-dir="$PROJECT_DIR$/learn.javascript/generators">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/testcase/script.js" working-dir="$PROJECT_DIR$/testcase">
       <method v="2" />
     </configuration>
     <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/test.js" working-dir="$PROJECT_DIR$/test">
@@ -185,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.proxy.js" />
         <item itemvalue="Node.js.main.js" />
         <item itemvalue="Node.js.script.js" />
         <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.mdl.js" />
-        <item itemvalue="Node.js.str.js" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +193,10 @@
       <workItem from="1601019524910" duration="13381000" />
       <workItem from="1603190950339" duration="7104000" />
       <workItem from="1603882778930" duration="3969000" />
-      <workItem from="1603966826409" duration="1558000" />
+      <workItem from="1603966826409" duration="5384000" />
+      <workItem from="1604996926386" duration="2456000" />
+      <workItem from="1605787528903" duration="9000" />
+      <workItem from="1607079461846" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="Add more tutorials examples">
       <created>1585920277754</created>
@@ -381,26 +323,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601034022170" />
-    <state width="1515" height="296" key="GridCell.Tab.0.bottom" timestamp="1603968777389">
+    <state width="1515" height="181" key="GridCell.Tab.0.bottom" timestamp="1603974742611">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="296" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603968777389" />
-    <state width="1515" height="296" key="GridCell.Tab.0.center" timestamp="1603968777389">
+    <state width="1515" height="181" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603974742611" />
+    <state width="1515" height="181" key="GridCell.Tab.0.center" timestamp="1603974742611">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="296" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603968777389" />
-    <state width="1515" height="296" key="GridCell.Tab.0.left" timestamp="1603968777389">
+    <state width="1515" height="181" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603974742611" />
+    <state width="1515" height="181" key="GridCell.Tab.0.left" timestamp="1603974742611">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="296" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603968777389" />
-    <state width="1515" height="296" key="GridCell.Tab.0.right" timestamp="1603968777389">
+    <state width="1515" height="181" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603974742611" />
+    <state width="1515" height="181" key="GridCell.Tab.0.right" timestamp="1603974742611">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="296" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603968777389" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1596809206332">
+    <state width="1515" height="181" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603974742611" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1603970453695">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596809206332" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603970453695" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1601022321475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
